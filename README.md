@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzhakker&label=Profile%20views&color=0e75b6&style=flat" alt="uzhakker" /> </p>
-
+....
 - 🔭 I’m currently working on [smarclean](activity.uz)
 
 - 🤝 I’m looking for help with **ios**
